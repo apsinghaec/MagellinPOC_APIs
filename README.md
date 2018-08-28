@@ -1,1 +1,0 @@
-# MagellinPOC_APIs
